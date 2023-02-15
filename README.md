@@ -12,7 +12,7 @@
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=MarinaPrivalova&style=flat-square&color=blue" alt="Счётчик просмотров"/>
-  <h1 color="#8dd8bd">
+  <h1>
     <img src="./img/flower.png" width="30" alt="Ромашка">
     Привет, меня зовут Марина
     <img src="./img/flower.png" width="30" alt="Ромашка">
@@ -25,7 +25,7 @@
 - :books: Каждый день стараюсь совершенствовать свои навыки, получать новые знания
 - :heavy_check_mark: Готова к сотрудничеству над интересными проектами
 
-<div align="center">
+<div>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2IwZTU5YTZmMGE1YWE0YWMxMWFmNDgyNDhkZDA3Y2E2YTUzYjA0NyZjdD1z/j0HjChGV0J44KrrlGv/giphy.gif" width="160" height="120"/>
 </div>
 
