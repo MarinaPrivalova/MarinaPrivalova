@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjk0ZmQzNmIzMTBjZDIzYTI3N2I0NGI4NTZiY2U3YWQ1N2QyOWQyYiZjdD1z/ejkp4aINlka14Cfpx6/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjk0ZmQzNmIzMTBjZDIzYTI3N2I0NGI4NTZiY2U3YWQ1N2QyOWQyYiZjdD1z/ejkp4aINlka14Cfpx6/giphy.gif" width="90"/>
   <div id="badges">
     <a href="https://t.me/MarinaChip">
       <img src="./img/telegr.png" width="50" target="_blank" alt="Иконка телеграмм"/>
@@ -12,7 +12,7 @@
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=MarinaPrivalova&style=flat-square&color=blue" alt="Счётчик просмотров"/>
-  <h1>
+  <h1 color="#8dd8bd">
     <img src="./img/flower.png" width="30" alt="Ромашка">
     Привет, меня зовут Марина
     <img src="./img/flower.png" width="30" alt="Ромашка">
