@@ -19,7 +19,7 @@
   </h1> 
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2IwZTU5YTZmMGE1YWE0YWMxMWFmNDgyNDhkZDA3Y2E2YTUzYjA0NyZjdD1z/j0HjChGV0J44KrrlGv/giphy.gif" width="400" height="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2IwZTU5YTZmMGE1YWE0YWMxMWFmNDgyNDhkZDA3Y2E2YTUzYjA0NyZjdD1z/j0HjChGV0J44KrrlGv/giphy.gif" width="250" height="200"/>
 </div>
 
 ### :memo: Обо мне:
