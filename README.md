@@ -26,7 +26,7 @@
 - :heavy_check_mark: Готова к сотрудничеству над интересными проектами
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2IwZTU5YTZmMGE1YWE0YWMxMWFmNDgyNDhkZDA3Y2E2YTUzYjA0NyZjdD1z/j0HjChGV0J44KrrlGv/giphy.gif" width="150" height="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2IwZTU5YTZmMGE1YWE0YWMxMWFmNDgyNDhkZDA3Y2E2YTUzYjA0NyZjdD1z/j0HjChGV0J44KrrlGv/giphy.gif" width="160" height="120"/>
 </div>
 
 ### :hammer_and_wrench: Навыки и инструменты:
