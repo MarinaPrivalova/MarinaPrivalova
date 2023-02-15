@@ -36,15 +36,12 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
  ### :bar_chart: Моя статистика:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MarinaPrivalova&theme=prussian&border_radius=15)](https://git.io/streak-stats) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarinaPrivalova&theme=nord_dark) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarinaPrivalova&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MarinaPrivalova&theme=nord_dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarinaPrivalova&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarinaPrivalova&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarinaPrivalova&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MarinaPrivalova&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MarinaPrivalova&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MarinaPrivalova&theme=tokyonight&utcOffset=8) 
-
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MarinaPrivalova&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MarinaPrivalova&theme=nord_dark&utcOffset=8)
     
 
 
