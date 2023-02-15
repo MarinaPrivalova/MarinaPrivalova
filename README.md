@@ -19,8 +19,9 @@
   </h1> 
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzdlYTFkNTVlZTMxMTJhYTRjN2QxMmMxYjRlNjExMDhmZTJmYzcxNSZjdD1z/Lh1XLWCeaSLUnz8l1A/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2IwZTU5YTZmMGE1YWE0YWMxMWFmNDgyNDhkZDA3Y2E2YTUzYjA0NyZjdD1z/j0HjChGV0J44KrrlGv/giphy.gif" width="400" height="200"/>
 </div>
+
 ### :memo: Обо мне:
 - :woman_technologist: Я - начинающий Frontend-разработчик из Санкт-Петербурга
 - :computer: В настоящий момент прохожу обучение на курсе "Web-разработчик" от Яндекс Практикума
@@ -32,7 +33,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
- ### :bar_chart: Моя статистика:
+
+### :bar_chart: Моя статистика:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarinaPrivalova&theme=nord_dark) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarinaPrivalova&theme=nord_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MarinaPrivalova&theme=nord_dark)
