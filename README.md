@@ -26,7 +26,7 @@
 - :woman_technologist: Я - начинающий Frontend-разработчик из Санкт-Петербурга
 - :computer: В настоящий момент прохожу обучение на курсе "Web-разработчик" от Яндекс Практикума
 - :books: Каждый день стараюсь совершенствовать свои навыки, получать новые знания
-- :heavy_check_mark: Открыта и готова к сотрудничеству над интересными проектами
+- :heavy_check_mark: Готова к сотрудничеству над интересными проектами
 ### :hammer_and_wrench: Навыки и инструменты:
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -38,8 +38,9 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarinaPrivalova&theme=nord_dark) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarinaPrivalova&theme=nord_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MarinaPrivalova&theme=nord_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MarinaPrivalova&theme=nord_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MarinaPrivalova&theme=nord_dark&utcOffset=8)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarinaPrivalova&layout=compact&theme=vision-nord_dark)](https://github.com/anuraghazra/github-readme-stats)   
+
+
     
 
 
