@@ -19,11 +19,8 @@
   </h1> 
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzdlYTFkNTVlZTMxMTJhYTRjN2QxMmMxYjRlNjExMDhmZTJmYzcxNSZjdD1z/Lh1XLWCeaSLUnz8l1A/giphy.gif" width="600" height="300"/>
 </div>
-
----
-
 ### :memo: Обо мне:
 - :woman_technologist: Я - начинающий Frontend-разработчик из Санкт-Петербурга
 - :computer: В настоящий момент прохожу обучение на курсе "Web-разработчик" от Яндекс Практикума
@@ -39,7 +36,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarinaPrivalova&theme=nord_dark) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarinaPrivalova&theme=nord_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MarinaPrivalova&theme=nord_dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarinaPrivalova&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MarinaPrivalova&theme=nord_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MarinaPrivalova&theme=nord_dark&utcOffset=8)
     
