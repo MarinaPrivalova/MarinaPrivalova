@@ -38,7 +38,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarinaPrivalova&theme=github_dark) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarinaPrivalova&theme=github_dark) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MarinaPrivalova&theme=github_dark) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarinaPrivalova&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarinaPrivalova&layout=compact&theme=vision-github-dark)](https://github.com/anuraghazra/github-readme-stats)
 
     
 
