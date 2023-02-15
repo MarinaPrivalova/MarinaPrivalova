@@ -3,13 +3,13 @@
 </div>
 <div id="badges" align="center">
   <a href="https://t.me/MarinaChip">
-    <img src="./img/telegr.png" width="50" target="_blank alt="Иконка телеграмм">
+    <img src="./img/telegr.png" width="50" target="_blank" alt="Иконка телеграмм">
   </a>
   <a href="https://wa.me/79312602133">
-    <img src="./img/logo_whatsapp_telephone_handset_icon_143174.png" width="50" target="_blank alt="Иконка ватсап">
+    <img src="./img/logo_whatsapp_telephone_handset_icon_143174.png" width="50" target="_blank" alt="Иконка ватсап">
   </a>
   <a href="https://vk.com/id5443293">
-    <img src="./img/logo_vk_vkontakte_icon_143187.png" width="50" target="_blank alt="Иконка вконтакте">
+    <img src="./img/logo_vk_vkontakte_icon_143187.png" width="50" target="_blank" alt="Иконка вконтакте">
   </a>
 </div>
 
