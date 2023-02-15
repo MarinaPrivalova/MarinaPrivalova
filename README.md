@@ -18,15 +18,17 @@
     <img src="./img/flower.png" width="30" alt="Ромашка">
   </h1> 
 </div>
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2IwZTU5YTZmMGE1YWE0YWMxMWFmNDgyNDhkZDA3Y2E2YTUzYjA0NyZjdD1z/j0HjChGV0J44KrrlGv/giphy.gif" width="250" height="200"/>
-</div>
 
 ### :memo: Обо мне:
 - :woman_technologist: Я - начинающий Frontend-разработчик из Санкт-Петербурга
 - :computer: В настоящий момент прохожу обучение на курсе "Web-разработчик" от Яндекс Практикума
 - :books: Каждый день стараюсь совершенствовать свои навыки, получать новые знания
 - :heavy_check_mark: Готова к сотрудничеству над интересными проектами
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2IwZTU5YTZmMGE1YWE0YWMxMWFmNDgyNDhkZDA3Y2E2YTUzYjA0NyZjdD1z/j0HjChGV0J44KrrlGv/giphy.gif" width="250" height="200"/>
+</div>
+
 ### :hammer_and_wrench: Навыки и инструменты:
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
