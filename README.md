@@ -11,12 +11,12 @@
       <img src="./img/logo_vk_vkontakte_icon_143187.png" width="50" target="_blank" alt="Иконка вконтакте"/>
     </a>
   </div>
+  <img src="https://komarev.com/ghpvc/?username=MarinaPrivalova&style=flat-square&color=blue" alt="Счётчик просмотров"/>
   <h1>
     <img src="./img/flower.png" width="30" alt="Ромашка">
     Привет, меня зовут Марина
     <img src="./img/flower.png" width="30" alt="Ромашка">
   </h1> 
-  <img src="https://komarev.com/ghpvc/?username=MarinaPrivalova&style=flat-square&color=blue" alt="Счётчик просмотров"/>
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -25,10 +25,10 @@
 ---
 
 ### :memo: Обо мне:
-:woman_technologist: Я - начинающий Frontend-разработчик из Санкт-Петербурга
-:computer: В настоящий момент прохожу обучение на курсе "Web-разработчик" от Яндекс Практикума
-:books: Каждый день стараюсь совершенствовать свои навыки, получать новые знания
-:heavy_check_mark: Открыта и готова к сотрудничеству над интересными проектами
+- :woman_technologist: Я - начинающий Frontend-разработчик из Санкт-Петербурга
+- :computer: В настоящий момент прохожу обучение на курсе "Web-разработчик" от Яндекс Практикума
+- :books: Каждый день стараюсь совершенствовать свои навыки, получать новые знания
+- :heavy_check_mark: Открыта и готова к сотрудничеству над интересными проектами
 ### :hammer_and_wrench: Навыки и инструменты:
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -38,11 +38,11 @@
  ### :bar_chart: Моя статистика:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MarinaPrivalova&theme=prussian&border_radius=15)](https://git.io/streak-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarinaPrivalova&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-[](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarinaPrivalova&theme=solarized_dark)
-[](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MarinaPrivalova&theme=solarized_dark)
-[](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarinaPrivalova&theme=solarized_dark)
-[](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MarinaPrivalova&theme=solarized_dark)
-[](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MarinaPrivalova&theme=solarized_dark)    
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarinaPrivalova&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarinaPrivalova&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MarinaPrivalova&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MarinaPrivalova&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MarinaPrivalova&theme=tokyonight&utcOffset=8) 
 
 
     
