@@ -13,9 +13,9 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=MarinaPrivalova&style=flat-square&color=blue" alt="Счётчик просмотров"/>
   <h1>
-    <img src="./img/flower_leaf_spring_autumn_garden_nature_ecology_environment_plants_herb_flora_bloom_blossom_petal_icon_153841.png" width="30" alt="Цветок">
+    <img src="./img/blue-flower-512x512_98683.png" width="30" alt="Цветок">
     Привет, меня зовут Марина
-    <img src="./img/flower_leaf_spring_autumn_garden.png" width="30" alt="Цветок">
+    <img src="./img/blue-flower-512x512_98683_rev.png" width="30" alt="Цветок">
   </h1> 
 </div>
 
