@@ -14,7 +14,7 @@
   <img src="https://komarev.com/ghpvc/?username=MarinaPrivalova&style=flat-square&color=blue" alt="Счётчик просмотров"/>
   <h1>
     <img src="./img/blue-flower-512x512_98683.png" width="30" alt="Цветок">
-    Привет, меня зовут Марина
+    Привет! Меня зовут Марина
     <img src="./img/blue-flower-512x512_98683_rev.png" width="30" alt="Цветок">
   </h1> 
 </div>
@@ -34,10 +34,15 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" title="Webpack"  alt="Webpack" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode"  alt="VSCode" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma"  alt="Figma" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git"  alt="Git" width="40" height="40"/>&nbsp;
 
 ### :bar_chart: Моя статистика:
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarinaPrivalova&theme=github_dark) 
+![](https://www.codewars.com/users/MarinaPrivalova/badges/large) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarinaPrivalova&theme=github_dark) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MarinaPrivalova&theme=github_dark) 
 
