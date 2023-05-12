@@ -42,10 +42,19 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 
 ### :bar_chart: Моя статистика:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarinaPrivalova&layout=compact)](https://github.com/MarinaPrivalova/github-readme-stats)
+
+![](https://www.codewars.com/users/MarinaPrivalova/badges/small)
+
+<div>
+<a href="https://github-readme-stats.vercel.app/api?username=MarinaPrivalova&hide=contribs&show_icons=true">
+  <img align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=MarinaPrivalova&hide=issues&show_icons=true" />
+</a>   
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=MarinaPrivalova&layout=compact">
+  <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarinaPrivalova&layout=compact" />
+</a>
+</div>
 
 
-![](https://www.codewars.com/users/MarinaPrivalova/badges/large) 
 
 
 
