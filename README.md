@@ -13,9 +13,7 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=MarinaPrivalova&style=flat-square&color=blue" alt="Счётчик просмотров"/>
   <h1>
-    <img src="./img/blue-flower-512x512_98683.png" width="30" alt="Цветок">
     Привет! Меня зовут Марина
-    <img src="./img/blue-flower-512x512_98683_rev.png" width="30" alt="Цветок">
   </h1> 
 </div>
 
