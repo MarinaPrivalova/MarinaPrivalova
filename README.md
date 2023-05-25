@@ -43,8 +43,8 @@
 
 ### :bar_chart: Моя статистика:
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarinaPrivalova&theme=github_dark) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MarinaPrivalova&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarinaPrivalova&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MarinaPrivalova&theme=vue)
 ![](https://www.codewars.com/users/MarinaPrivalova/badges/large)
 
 
