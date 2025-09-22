@@ -43,7 +43,6 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarinaPrivalova&theme=vue)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MarinaPrivalova&theme=vue)
-![](https://www.codewars.com/users/MarinaPrivalova/badges/large)
 
 
 
