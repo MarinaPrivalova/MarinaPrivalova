@@ -42,7 +42,6 @@
 ### :bar_chart: Моя статистика:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarinaPrivalova&theme=vue)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MarinaPrivalova&theme=vue)
 
 
 
